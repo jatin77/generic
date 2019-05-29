@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5ebb8371.chunk.css",
+    "main.js": "/static/js/main.c9372ea8.chunk.js",
+    "main.js.map": "/static/js/main.c9372ea8.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.a8a9905a.js",
+    "runtime~main.js.map": "/static/js/runtime~main.a8a9905a.js.map",
+    "static/js/2.4cc8969d.chunk.js": "/static/js/2.4cc8969d.chunk.js",
+    "static/js/2.4cc8969d.chunk.js.map": "/static/js/2.4cc8969d.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.c1d5e04682054d4077a0df20f1c946de.js": "/precache-manifest.c1d5e04682054d4077a0df20f1c946de.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.5ebb8371.chunk.css.map": "/static/css/main.5ebb8371.chunk.css.map",
+    "static/media/beach.jpg": "/static/media/beach.c0f99be9.jpg",
+    "static/media/generic.css": "/static/media/black-and-white-black-and-white-fog-1061623.8fe8aa2d.jpg",
+    "static/media/closer.jpg": "/static/media/closer.782c29c0.jpg",
+    "static/media/coconut.jpg": "/static/media/coconut.9fe96759.jpg",
+    "static/media/fade.jpg": "/static/media/fade.4984e697.jpg",
+    "static/media/happyBeach.jpg": "/static/media/happyBeach.9f23fe03.jpg",
+    "static/media/roll.jpg": "/static/media/roll.ecc06b48.jpg",
+    "static/media/home.css": "/static/media/tim-navis-78745-unsplash.1b9f7993.jpg",
+    "static/media/vohoo.jpg": "/static/media/vohoo.bb867af3.jpg"
+  }
+}
